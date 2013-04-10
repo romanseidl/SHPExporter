@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="at-granul-gephi-shpexporter-SHPExporterAction.instance">
+                <!--at.granul.gephi.shpexporter.SHPExporterAction-->
+                <attr
+                    bundlevalue="at.granul.gephi.shpexporter.Bundle#CTL_SHPExporterAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="at.granul.gephi.shpexporter.SHPExporterAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Plugins">
+            <file name="at-granul-gephi-shpexporter-SHPExporterAction.shadow">
+                <!--at.granul.gephi.shpexporter.SHPExporterAction-->
+                <attr name="originalFile" stringvalue="Actions/Tools/at-granul-gephi-shpexporter-SHPExporterAction.instance"/>
+                <attr intvalue="3333" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

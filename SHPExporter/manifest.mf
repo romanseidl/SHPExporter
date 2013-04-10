@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: at.granul.gephi.shpexporter
+OpenIDE-Module-Localizing-Bundle: at/granul/gephi/shpexporter/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+
