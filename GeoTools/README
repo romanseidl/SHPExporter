@@ -1,0 +1,12 @@
+GeoTools is an open source Java library that provides tools for geospatial data.
+  
+http://www.geotools.org/
+
+This Package contains parts of the Geotools Library:
+   
+gt-api-8.4.jar 
+gt-main-8.4.jar 
+gt-metadata-8.4.jar 
+gt-opengis-8.4.jar 
+gt-shapefile-8.4.jar 
+jts-1.12.jar
